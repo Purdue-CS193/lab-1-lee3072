@@ -1,9 +1,13 @@
-## Welcome to Seung Heon Lee's GitHub Page
+## Seung Heon Lee's first CS193 Lab
 
 
-### Hello World
+### Favorite things about Purdue CS193
 
-```Hello World
-should I write code for Hello World in here?
+```Favortie things
+
+- Only one class a week
+- No homework if the lab is finished
+
+
 ```
 
